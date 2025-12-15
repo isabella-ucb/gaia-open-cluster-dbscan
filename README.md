@@ -24,7 +24,7 @@ We query Gaia DR3 using Astroquery and apply the DBSCAN clustering algorithm in 
 - Astrophysical validation using CMDs and parallaxes
 
 ## Repository Contents
-- `gaia_cluster_analysis.ipynb`: Main analysis notebook
+- `projGaia_DR3_Open_Cluster_pms.ipynb`: Main analysis notebook
 - `plots/`: Validation figures used in the report
 
 ## Authors
